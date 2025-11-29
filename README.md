@@ -275,11 +275,6 @@ Have questions or suggestions? Feel free to reach out!
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 **Made with ❤️ using Streamlit and Python**
 
